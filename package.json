@@ -1,0 +1,16 @@
+{
+  "name": "re-define-wrap",
+  "version": "0.0.1",
+  "description": "re-define plugin for wrapping files, when you meet a issue that some libs are not well wrapped (UMD).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Damian Baar <damian.baar@gmail.com> (http://github.com/damianbaar)",
+  "license": "MIT",
+  "dependencies": {
+    "acorn": "^0.9.0",
+    "lodash": "^2.4.1",
+    "through2": "^0.6.3"
+  }
+}
